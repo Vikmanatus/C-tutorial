@@ -6,6 +6,7 @@ To compile and run your program use ``` gcc [cFile].c ``` and ```./a.out```
 
 ## Data Types
 ```char```: uses to store characters
+
 ```int``` : uses to store a number
 
 ## Assigning a variable
