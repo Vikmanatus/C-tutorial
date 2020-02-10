@@ -1,5 +1,5 @@
 # 💾 C Tutorial
 
-## ❔Informations
+## ❓Informations
 
-To build use ``` gcc [cFile].c ```
+To compile and run your program use ``` gcc [cFile].c ``` and ```./a.out```
