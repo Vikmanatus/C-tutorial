@@ -5,9 +5,16 @@
 To compile and run your program use ``` gcc [cFile].c ``` and ```./a.out```
 
 ## Data Types
-```char```: uses to store characters
 
-```int``` : uses to store a number
+```char``` : used to store one single character
+
+```char variable[]``` : used to store a string of character's
+
+```int``` : used to store a number
+
+```double``` : used to store a decimal value
+
+
 
 ## Assigning a variable
 
