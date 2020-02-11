@@ -1,6 +1,6 @@
 # 💾 C Tutorial
 
-## Link of the video
+## 🔗 Link of the video
 ````
 https://www.youtube.com/watch?v=KJgsSFOSQv0&t=2330s
 ````
@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=KJgsSFOSQv0&t=2330s
 
 To compile and run your program use ``` gcc [cFile].c ``` and ```./a.out```
 
-## Data Types
+## 📡 Data Types
 
 ```char``` : used to store one single character
 
@@ -19,7 +19,7 @@ To compile and run your program use ``` gcc [cFile].c ``` and ```./a.out```
 
 ```double``` : used to store a decimal value
 
-## Informations
+## 👨🏻‍🏫 Useful Information
 
 ````
 char character = "i";
@@ -29,7 +29,11 @@ Format specifiaor: %d allows you to print a number, %s allows you to print a str
 %c allows yopu to print a character
 
 
-## Assigning a variable
+````
+printf("%f", 5 * 3);
+```` 
+
+## ⛓️ Assigning a variable
 
 ````
 char characterName[] = "Johnny";
