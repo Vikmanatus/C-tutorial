@@ -22,10 +22,10 @@ To compile and run your program use ``` gcc [cFile].c ``` and ```./a.out```
 ## Informations
 
 ````
-    char character = "i";
-    printf("Bla bla, %s bla %d, %f, %c", "bla", 500, 500.976,character );
+char character = "i";
+printf("Bla bla, %s bla %d, %f, %c", "bla", 500, 500.976,character );
 ```` 
-Format specifiaor, %d allows you to print a number, %s allows you to print a string, %f allows you to print a decimal,
+Format specifiaor: %d allows you to print a number, %s allows you to print a string, %f allows you to print a decimal,
 %c allows yopu to print a character
 
 
