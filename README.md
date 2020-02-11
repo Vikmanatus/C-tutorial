@@ -16,7 +16,8 @@ To compile and run your program use ``` gcc [cFile].c ``` and ```./a.out```
 
 ## Informations
 
-```printf("Bla bla, %s bla %d", "bla", 500)```: format specifiaor, %d allows you to print a number, %s allows you to print a string
+```printf("Bla bla, %s bla %d, %f", "bla", 500, 500.976)```: format specifiaor, %d allows you to print a number, 
+                                                            %s allows you to print a string, %f allows you to print a decimal
 
 
 ## Assigning a variable
