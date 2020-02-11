@@ -1,6 +1,6 @@
 # 💾 C Tutorial
 
-## 🔗 Link of the video
+## 🔗 Link of the tutorial
 ````
 https://www.youtube.com/watch?v=KJgsSFOSQv0&t=2330s
 ````
@@ -28,11 +28,25 @@ printf("Bla bla, %s bla %d, %f, %c", "bla", 500, 500.976,character );
 Format specifiaor: %d allows you to print a number, %s allows you to print a string, %f allows you to print a decimal,
 %c allows yopu to print a character
 
-
 ````
 printf("%f", 5 * 3);
 ```` 
+You can use math operations inside printf
 
+````
+printf("%f", pow(2, 3));
+```` 
+This will give you 2^3
+
+More informations about C functions on the link below
+````
+https://courses.cs.washington.edu/courses/cse351/14sp/sections/1/Cheatsheet-c.pdf
+````
+
+````
+/* I am a comment */
+```` 
+Syntax to write a comment in C
 ## ⛓️ Assigning a variable
 
 ````
