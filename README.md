@@ -14,6 +14,9 @@ To compile and run your program use ``` gcc [cFile].c ``` and ```./a.out```
 
 ```double``` : used to store a decimal value
 
+## Informations
+
+```printf("Bla bla, %s bla %d", "bla", 500)```: format specifiaor, %d allows you to print a number, %s allows you to print a string
 
 
 ## Assigning a variable
