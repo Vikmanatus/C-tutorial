@@ -65,6 +65,10 @@ Declare a constant in C
 
 
 
+`````
+Video stopped at Getting User Input
+`````
+
 ## ⛓️ Assigning a variable
 
 ````
