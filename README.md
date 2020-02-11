@@ -1,5 +1,10 @@
 # 💾 C Tutorial
 
+## Link of the video
+````
+https://www.youtube.com/watch?v=KJgsSFOSQv0&t=2330s
+````
+
 ## ❓Informations
 
 To compile and run your program use ``` gcc [cFile].c ``` and ```./a.out```
@@ -16,8 +21,12 @@ To compile and run your program use ``` gcc [cFile].c ``` and ```./a.out```
 
 ## Informations
 
-```printf("Bla bla, %s bla %d, %f", "bla", 500, 500.976)```: format specifiaor, %d allows you to print a number, 
-%s allows you to print a string, %f allows you to print a decimal
+````
+    char character = "i";
+    printf("Bla bla, %s bla %d, %f, %c", "bla", 500, 500.976,character );
+```` 
+Format specifiaor, %d allows you to print a number, %s allows you to print a string, %f allows you to print a decimal,
+%c allows yopu to print a character
 
 
 ## Assigning a variable
