@@ -29,10 +29,12 @@ Format specifiaor: %d allows you to print a number, %s allows you to print a str
 %c allows yopu to print a character
 
 
+
 ````
 printf("%f", 5 * 3);
 ```` 
 You can use math operations inside printf
+
 
 
 ````
@@ -41,16 +43,26 @@ printf("%f", pow(2, 3));
 This will give you 2^3
 
 
+
 More informations about C functions on the link below
 ````
 https://courses.cs.washington.edu/courses/cse351/14sp/sections/1/Cheatsheet-c.pdf
 ````
 
 
+
 ````
 /* I am a comment */
 ```` 
 Syntax to write a comment in C
+
+
+
+`````
+const int num = 5;
+`````
+Declare a constant in C
+
 
 
 ## ⛓️ Assigning a variable
